@@ -18,7 +18,7 @@ public class HeroMovement : MonoBehaviour
     {
         _direction.x = Input.GetAxis("Horizontal");
         _direction.z = Input.GetAxis("Vertical");
-        Debug.Log(_direction);
+        //Debug.Log(_direction);
     }
 
     void FixedUpdate()
