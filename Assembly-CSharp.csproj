@@ -55,10 +55,12 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Bomb.cs" />
     <Compile Include="Assets\Scripts\BulletFire.cs" />
+    <Compile Include="Assets\Scripts\Camera1person.cs" />
     <Compile Include="Assets\Scripts\GetHPtoken.cs" />
     <Compile Include="Assets\Scripts\HealthController.cs" />
     <Compile Include="Assets\Scripts\HeroMovement.cs" />
     <Compile Include="Assets\Scripts\LookAtTarget.cs" />
+    <Compile Include="Assets\Scripts\Patrol.cs" />
     <Compile Include="Assets\Scripts\SeeAndShoot.cs" />
     <Compile Include="Assets\Scripts\SpawnEnemy.cs" />
   </ItemGroup>
